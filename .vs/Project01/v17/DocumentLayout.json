@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|c:\\myrepo\\utfpr\\desenv. jogos\\project01\\assets\\scenes\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|c:\\myrepo\\utfpr\\desenv. jogos\\project01\\assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\assets\\platform\\movableplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EAA0AF-1CB0-D69B-9868-74C91AA686D0}|Assembly-CSharp.csproj|solutionrelative:assets\\platform\\movableplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Scenes\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MenuController.cs",
+              "ToolTip": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Scenes\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:10:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Player\\Player.cs",
               "ToolTip": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Player\\Player.cs",
               "RelativeToolTip": "Assets\\Player\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:12:16.734Z",
+              "WhenOpened": "2024-04-29T20:07:01.879Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovablePlatform.cs",
+              "DocumentMoniker": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Platform\\MovablePlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Platform\\MovablePlatform.cs",
+              "ToolTip": "C:\\MyRepo\\UTFPR\\Desenv. Jogos\\Project01\\Assets\\Platform\\MovablePlatform.cs",
+              "RelativeToolTip": "Assets\\Platform\\MovablePlatform.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:40:45.908Z"
             }
           ]
         }
